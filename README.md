@@ -1,5 +1,3 @@
-I couldn't reliably access your specific repository contents from GitHub, so here's a professional and attractive README template tailored for an SQL practice/project repository. You can paste it into `README.md` and customize the sections as needed.
-
 # 📊 SQL Practice & Projects Repository
 
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
